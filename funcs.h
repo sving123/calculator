@@ -3,5 +3,6 @@
 
 
 double MyDiv(double, double);
+double MyMul(double, double);
 
 #endif // __FUNCS_H__
